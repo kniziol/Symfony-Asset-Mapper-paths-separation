@@ -1,3 +1,1 @@
-import './styles/main.css'
-
-alert('Hello BraveElephant')
+import './styles/brave-elephant.css'

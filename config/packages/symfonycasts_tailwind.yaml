@@ -1,0 +1,5 @@
+symfonycasts_tailwind:
+    input_css:
+        - assets/app/styles/app.css
+        - assets/orange-pizza/styles/orange-pizza.css
+        - assets/brave-elephant/styles/brave-elephant.css

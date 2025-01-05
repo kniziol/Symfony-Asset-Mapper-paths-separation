@@ -1,3 +1,1 @@
-import './styles/main.css'
-
-alert('Hello OrangePizza')
+import './styles/orange-pizza.css'
