@@ -13,7 +13,15 @@
  */
 return [
     'app' => [
-        'path' => './assets/app.js',
+        'path' => './assets/app/app.js',
+        'entrypoint' => true,
+    ],
+    'orange-pizza' => [
+        'path' => './assets/orange-pizza/orange-pizza.js',
+        'entrypoint' => true,
+    ],
+    'brave-elephant' => [
+        'path' => './assets/brave-elephant/brave-elephant.js',
         'entrypoint' => true,
     ],
 ];
